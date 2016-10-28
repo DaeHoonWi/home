@@ -27,9 +27,9 @@
 				</div>
 			</a>
 			<div style="display:table-cell; width: 50px;"></div>
-			<a href="https://github.com/DaeHoonWi/MyProject">
+			<a href="https://github.com/DaeHoonWi/">
 				<div class="cell">
-					<img alt="github" src="image/github_MyProject.png"><br>
+					<img alt="github" src="image/github_DaeHoonWi.png"><br>
 					<p>GitHub</p>
 				</div>
 			</a>
