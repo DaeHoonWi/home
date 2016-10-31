@@ -20,7 +20,7 @@
 	</header>
 	<div class='main'>
 		<div class="row">
-			<a href="ppt/1.html">
+			<a href="ppt/ppt.html">
 				<div class="cell">
 					<img alt="portfolio" src="image/portfoli.gif"><br>
 					<p>Portfolio</p>
